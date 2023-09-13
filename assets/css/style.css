@@ -1,0 +1,15 @@
+.body {background-color:rgb(246, 239, 231);
+text-align: center;
+}
+
+.header, .footer {background-color: rgb(26, 97, 46);
+color:azure;
+}
+.header {text-align:right;
+color:rgb(246, 239, 231)}
+.footer {text-align: center;
+color:rgb(246, 239, 231)}
+.h1, .contactme {color:rgb(73, 65, 65);
+font-family: 'Lucida Sans', sans-serif;
+text-align: center;
+}
